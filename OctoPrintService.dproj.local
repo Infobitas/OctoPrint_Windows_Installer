@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020-04-21 21:38:31.049,=C:\Users\pociu\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020-04-21 21:38:57.109,D:\Projects\VersionControl\Delphi\Projects\AppService\Main.pas=C:\Users\pociu\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020-04-21 21:38:57.109,D:\Projects\VersionControl\Delphi\Projects\AppService\Main.dfm=C:\Users\pociu\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020-04-21 21:39:06.516,D:\Projects\VersionControl\Delphi\Projects\AppService\AppService.dproj=C:\Users\pociu\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020-04-21 21:42:05.532,=D:\Projects\VersionControl\Delphi\Projects\AppService\Options.pas</Transaction>
+    <Transaction>2020-04-21 21:51:11.310,=D:\Projects\VersionControl\Delphi\Projects\AppService\FunctionLib.pas</Transaction>
+    <Transaction>2020-04-22 00:08:25.923,D:\Projects\VersionControl\Delphi\Projects\AppService\FunctionLib.pas=</Transaction>
+    <Transaction>2020-04-22 00:18:50.809,D:\Projects\VersionControl\Delphi\Projects\AppService\OctoPrintService.dproj=D:\Projects\VersionControl\Delphi\Projects\AppService\AppService.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
