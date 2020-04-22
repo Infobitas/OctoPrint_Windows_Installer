@@ -1,1 +1,1 @@
-C:\Services\OctoPrint\OctoPrintService.exe /INSTALL
+OctoPrintService.exe /INSTALL
