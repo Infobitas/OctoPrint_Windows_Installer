@@ -1,1 +1,1 @@
-C:\Services\OctoPrint\OctoPrintService.exe /UNINSTALL
+OctoPrintService.exe /UNINSTALL
