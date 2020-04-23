@@ -1,14 +1,25 @@
-# OctoPrint WinService
-Windows Services Controller for OctoPrint 
+# OctoPrint Windws Installer
+Windows Installer and Services Controller for OctoPrint 
 
-Manage OctoPrint for Windows via Windows Services. 
+Install OctoPrint on Windows with automated installer and manage via Windows Services. 
 
-1. Download Binary From http://www.infobitas.lt/jdownloads/OctoPrintService.zip
-2. Place files from zip archive in desired location 
-3. Change parameter "ServicePath" in Settings.ini file with your path to "octoprint.exe"
-4. Run "Install.bat" as Administrator
-5. Open Windows "Services", find "OctoPrint Service", start service. 
-6. Note, that OctoPrint server settings are user-based, so service logon user will take affect. Default is "Local System".
-7. If you experience service start problems - make sure, that service user has permissions to access location of executable.
+Instalation package includes:
+1. Microsoft Visual C++ Compiler Package for Python 2.7
+2. Microsoft Visual Studio BuildTools (newest version by online installer)
+3. Python 3.8.2 (32-bit)
+4. OctoPrint (newest online installer)
+5. OctoPrint Windows Service Controller (part of this project)
+
+Instalation package automatically performs all the steps from OctoPrint Setup manual https://community.octoprint.org/t/setting-up-octoprint-on-windows/383
+
+OctoPrint will be installed to C:\OctoPrint (C:\OctoPrint\venv)
+Python will be installed to C:\Python (skip prerequisite installation by unchecking checkbox if it is already installed)
+
+1. Download Binary From http://infobitas.lt/jdownloads/OctoPrint_Installer.exe
+2. Run instalation. OctoPrint service will be started automatically.
+3. Go to http://localhost:5000 to finish setup settings.
+4. Open Windows "Services", find "OctoPrint Service", start/stop service. 
+5. Note, that OctoPrint server settings are user-based, so service logon user will take affect. Default is "Local System".
+6. If you experience service start problems - make sure, that service user has permissions to access location of executable.
 
 
