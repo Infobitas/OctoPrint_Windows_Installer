@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.049,=C:\Users\pociu\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.109,D:\Projects\VersionControl\Delphi\Projects\AppService\Main.pas=C:\Users\pociu\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.809,D:\Projects\VersionControl\Delphi\Projects\AppService\OctoPrintService.dproj=D:\Projects\VersionControl\Delphi\Projects\AppService\AppService.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.516,D:\Projects\VersionControl\Delphi\Projects\AppService\AppService.dproj=C:\Users\pociu\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.109,D:\Projects\VersionControl\Delphi\Projects\AppService\Main.dfm=C:\Users\pociu\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.532,=D:\Projects\VersionControl\Delphi\Projects\AppService\Options.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.310,=D:\Projects\VersionControl\Delphi\Projects\AppService\FunctionLib.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.923,D:\Projects\VersionControl\Delphi\Projects\AppService\FunctionLib.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

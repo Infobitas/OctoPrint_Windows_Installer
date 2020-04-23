@@ -1,0 +1,1 @@
+OctoPrintService.exe /UNINSTALL
