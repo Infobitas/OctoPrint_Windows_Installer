@@ -6,7 +6,7 @@ Install OctoPrint on Windows with automated installer and manage via Windows Ser
 Instalation package includes:
 1. Microsoft Visual C++ Compiler Package for Python 2.7
 2. Microsoft Visual Studio BuildTools (newest version by online installer)
-3. Python 3.8.2 (32-bit)
+3. Python 3.11.1 (32-bit)
 4. OctoPrint (newest online installer)
 5. OctoPrint Windows Service Controller (part of this project)
 
